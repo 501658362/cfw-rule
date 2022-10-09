@@ -1,0 +1,9 @@
+mixin: # 注意下面缩进
+  rules:
+    - DOMAIN-SUFFIX,wrv.wyzecam.com,🎯 全球直连
+    - DOMAIN-SUFFIX,compute.amazonaws.com,🎯 全球直连
+    - DOMAIN-SUFFIX,alb-jenkins-test-1087941659.us-west-2.elb.amazonaws.com,🎯 全球直连
+    - DOMAIN-SUFFIX,subhd.tv,🔰 节点选择
+    - DOMAIN-SUFFIX,jumpcloud.com,🔰 节点选择
+    - DOMAIN-SUFFIX,amazonaws.com,🔰 节点选择
+    - DOMAIN-SUFFIX,amazon.com,🔰 节点选择
