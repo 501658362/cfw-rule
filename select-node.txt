@@ -1,0 +1,4 @@
+DOMAIN-SUFFIX,subhd.tv,🔰 节点选择
+DOMAIN-SUFFIX,jumpcloud.com,🔰 节点选择
+DOMAIN-SUFFIX,amazonaws.com,🔰 节点选择
+DOMAIN-SUFFIX,amazon.com,🔰 节点选择
