@@ -36,7 +36,7 @@ ruleset=📲 电报信息,https://raw.githubusercontent.com/ConnersHua/Profiles/
 ruleset=🔰 节点选择,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Global.list
 ruleset=🍎 苹果服务,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/Apple.list
 ruleset=DIRECT,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/China.list
-
+ruleset=🔰 节点选择,https://raw.githubusercontent.com/DivineEngine/Profiles/master/Clash/RuleSet/Global.yaml
 
 ;Options for custom base configuration file
 clash_rule_base=base/forcerule.yml
