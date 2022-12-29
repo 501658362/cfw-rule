@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,es.amazonaws.com
 DOMAIN-SUFFIX,wrv.wyzecam.com
 DOMAIN-SUFFIX,compute.amazonaws.com
 DOMAIN-SUFFIX,alb-jenkins-test-1087941659.us-west-2.elb.amazonaws.com
