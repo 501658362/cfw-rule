@@ -1,7 +1,6 @@
 DOMAIN-SUFFIX,subhd.tv
 DOMAIN-SUFFIX,jumpcloud.com
-DOMAIN-SUFFIX,amazonaws.com
-DOMAIN-SUFFIX,amazon.com
+DOMAIN-SUFFIX,console.aws.amazon.com
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,googleapis.com
 
